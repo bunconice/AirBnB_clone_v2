@@ -16,8 +16,6 @@ from models.user import User
 from models.base_model import BaseModel
 
 
-
-
 class TestHBNBCommand(unittest.TestCase):
     """
     Test class for the HBNBCommand class.
